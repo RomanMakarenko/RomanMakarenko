@@ -6,7 +6,7 @@ I build maintainable test automation for **web, mobile, and backend** products. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-makarenko-36962375/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?logo=gmail&logoColor=white)](mailto:makarenkoroman1989@gmail.com)
-[📄 Online résumé](https://romanmakarenko-qaautomation.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-View_online-6f42c1)](https://romanmakarenko-qaautomation.netlify.app/)
 
 ---
 
