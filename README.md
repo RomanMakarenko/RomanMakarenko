@@ -27,6 +27,11 @@ Java 21 test automation framework using Playwright and TestNG, with Maven, Allur
 
 `Java` `Playwright` `TestNG` `Maven` `Allure` `Claude Code` `Playwright MCP`
 
+### [PlaywrightAIFrameworkSkeleton](https://github.com/RomanMakarenko/PlaywrightAIFrameworkSkeleton)
+A TypeScript and Playwright Test starter for UI, API, and end-to-end automation. Includes Chromium, Firefox, and WebKit configuration, reusable test utilities, sample tests, strict type checking, ESLint, GitHub Actions CI, and an optional Claude Code browser-automation skill.
+
+`TypeScript` `Playwright` `Playwright Test` `Node.js` `ESLint` `GitHub Actions` `Claude Code`
+
 ### [JavaPlaywrightFramework](https://github.com/RomanMakarenko/JavaPlaywrightFramework)
 A Java framework for browser automation with Playwright, Maven, and TestNG.
 
